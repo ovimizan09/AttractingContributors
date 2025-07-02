@@ -8,4 +8,8 @@
 - Dynasty Warriors: Origins
 - とびだせ どうぶつの森/Animal Crossing: New Leaf
 - NINJA GAIDEN BLACK
-
+- Geometry dash
+- Clash Royal
+- Mobile Legends
+- Dota 2
+  
