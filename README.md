@@ -6,4 +6,5 @@
 - Pocket monsters Violet
 - Genshin
 - Dynasty Warriors: Origins
+- とびだせ どうぶつの森/Animal Crossing: New Leaf
 
