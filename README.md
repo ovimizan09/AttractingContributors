@@ -7,4 +7,5 @@
 - Genshin
 - Dynasty Warriors: Origins
 - とびだせ どうぶつの森/Animal Crossing: New Leaf
+- NINJA GAIDEN BLACK
 
