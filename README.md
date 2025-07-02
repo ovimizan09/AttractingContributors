@@ -4,3 +4,4 @@
 - DragonQuest
 - Zenless Zone Zero
 - Pocket monsters Violet
+- Dynasty Warriors: Origins
