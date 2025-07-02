@@ -5,3 +5,5 @@
 - Zenless Zone Zero
 - Pocket monsters Violet
 - Genshin
+- Dynasty Warriors: Origins
+
