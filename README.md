@@ -12,4 +12,5 @@
 - Clash Royal
 - Mobile Legends
 - Dota 2
+- The Legend of Zelda
   
