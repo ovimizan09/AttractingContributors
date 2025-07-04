@@ -4,7 +4,7 @@
 - (e.g.)Chongqing, China
 - Yamaguchi, Japan
 - HangZhou, CHINA
-- Baba, Kagawa in Japan
+- Kagawa,in Japan
 - Osaka, Japan
 - Oita, Japan
 - Hiroshima
@@ -15,3 +15,6 @@
 - Kyoto, Japan
 - Nagano, Japan
 - Chittagong, Bangladesh
+- Tokyo, Japan
+- Kumamoto, Japan
+- Hyogo, Japan
