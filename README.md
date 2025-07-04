@@ -12,10 +12,10 @@ Everyone loves good food, but sometimes you don’t know where to go. This AI he
 - GPT-based restaurant description
 - English support
 - Open time
-patch-12
+- Categorize restaurants by taste preferences/flavor types
 - popular and cheap restaurant
 - Obtaining reviews from people who have eaten there
- main
+main
 
 Please contribute ideas or code! Fork me 🙌
 
