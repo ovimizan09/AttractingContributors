@@ -16,6 +16,7 @@ Everyone loves good food, but sometimes you don’t know where to go. This AI he
 - popular and cheap restaurant
 - Obtaining reviews from people who have eaten there
 main
+- Google Gemini-based description
 
 Please contribute ideas or code! Fork me 🙌
 
