@@ -4,7 +4,7 @@
 - (e.g.)Chongqing, China
 - Yamaguchi, Japan
 - HangZhou, CHINA
-- Baba, Kagawa in Japan
+- Kagawa,in Japan
 - Osaka, Japan
 - Oita, Japan
 - Hiroshima
