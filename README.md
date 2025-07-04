@@ -13,6 +13,9 @@ Everyone loves good food, but sometimes you don’t know where to go. This AI he
 - English support
 - Open time
 - Categorize restaurants by taste preferences/flavor types
+- popular and cheap restaurant
+- Obtaining reviews from people who have eaten there
+main
 
 Please contribute ideas or code! Fork me 🙌
 
